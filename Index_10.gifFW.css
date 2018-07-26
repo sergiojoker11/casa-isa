@@ -85,7 +85,7 @@
 	text-align:center;
 	vertical-align:middle;
 	padding:5px;
-	background: url("Images/mmmenu1_205x30_up.gif") #e7e8da;
+	background: url("images/mmmenu1_205x30_up.gif") #e7e8da;
 	font-weight:normal;
 	font-style:italic;
 	display:block;
@@ -93,7 +93,11 @@
 }
 
 #MMMenuContainer0729175357_0 a:hover {
-/* Controls the mouse over effects for menu MMMenuContainer0729175357_0 */	color:#ffffff;	background: url("Images/mmmenu1_205x30_over.gif") #0066ff;}#FWTableContainer780655805 {
+/* Controls the mouse over effects for menu MMMenuContainer0729175357_0 */
+	color:#ffffff;
+	background: url("images/mmmenu1_205x30_over.gif") #0066ff;
+}
+#FWTableContainer780655805 {
 /* The master div to make sure that our popup menus get aligned correctly.  Be careful when playing with this one. */
 	position:relative;
 	margin:0px;
@@ -180,7 +184,7 @@
 	text-align:center;
 	vertical-align:middle;
 	padding:5px;
-	background: url("Images/mmmenu1_223x30_up.gif") #e7e8da;
+	background: url("images/mmmenu1_223x30_up.gif") #e7e8da;
 	font-weight:normal;
 	font-style:italic;
 	display:block;
@@ -188,7 +192,11 @@
 }
 
 #MMMenuContainer0729175726_0 a:hover {
-/* Controls the mouse over effects for menu MMMenuContainer0729175726_0 */	color:#ffffff;	background: url("Images/mmmenu1_223x30_over.gif") #0066ff;}td img {
+/* Controls the mouse over effects for menu MMMenuContainer0729175726_0 */
+	color:#ffffff;
+	background: url("images/mmmenu1_223x30_over.gif") #0066ff;
+}
+td img {
 /* Another Mozilla/Netscape bug with making sure our images display correctly */
 	display: block;
 }
@@ -252,7 +260,7 @@
 	text-align:center;
 	vertical-align:middle;
 	padding:5px;
-	background: url("Images/mmmenu1_113x30_up.gif") #e7e8da;
+	background: url("images/mmmenu1_113x30_up.gif") #e7e8da;
 	font-weight:normal;
 	font-style:italic;
 	display:block;
@@ -261,4 +269,6 @@
 
 #MMMenuContainer0729180143_0 a:hover {
 /* Controls the mouse over effects for menu MMMenuContainer0729180143_0 */
-	color:#ffffff;	background: url("Images/mmmenu1_113x30_over.gif") #0066ff;}
+	color:#ffffff;
+	background: url("images/mmmenu1_113x30_over.gif") #0066ff;
+}
